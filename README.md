@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engramar Bollas</h1>
-<h3 align="center">A Senior Professional Services Consultant at GBG</h3>
+<h3 align="center">Senior Professional Services Consultant at GBG</h3>
 
 - 🌱 I’m currently learning **FastAPI**
 
