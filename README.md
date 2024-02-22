@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Loqate**
+- 👯 I’m looking to collaborate on anything **Loqate**
 
 - 💬 Ask me about **Loqate ANZ**
 
