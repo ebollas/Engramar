@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engramar Bollas</h1>
 <h3 align="center">Senior Professional Services Consultant at GBG</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Loqate**
 
