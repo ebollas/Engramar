@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Loqate**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Loqate ANZ**
 
 - 📫 How to reach me **engramar.bollas@gbgplc.com**
 
