@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gbgplc-internal/loqate-citizendev](https://github.com/gbgplc-internal/loqate-citizendev)
-
 - 💬 Ask me about **Loqate ANZ**
 
 - 📫 How to reach me **engramar.bollas@gbgplc.com**
