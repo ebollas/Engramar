@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Loqate ANZ**
+- 💬 Ask me about **Loqate APAC**
 
 - 📫 How to reach me **engramar.bollas@gbgplc.com**
 
